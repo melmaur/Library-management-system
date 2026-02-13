@@ -1,3 +1,4 @@
+Intro
 
 This is a junior developer project created for learning purposes and for showcasing my work as I keep learning more.
 More features will be added incrementally following the roadmap.
