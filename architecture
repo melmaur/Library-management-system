@@ -1,0 +1,46 @@
+
+---
+
+# 📄 **docs/architecture.md**
+
+```markdown
+# Architecture Overview
+
+This project follows a layered architecture to keep the code organized, testable, and easy to extend.
+
+## Layers
+
+### Controller Layer
+Exposes REST endpoints and handles HTTP requests and responses.
+
+### Service Layer
+Contains business logic, validation, and application rules.
+
+### Repository Layer
+Communicates with the database using Spring Data JPA.
+
+### Model Layer
+Contains domain entities such as `Book`.
+
+## Current Domain Model
+
+### Book
+Fields:
+- id  
+- title  
+- author  
+- isbn  
+- publishedYear  
+- category  
+- totalCopies  
+- availableCopies  
+
+## Database
+The project uses PostgreSQL as the main database.  
+Flyway is used for database migrations to ensure consistent schema evolution.
+
+## Future Architecture Extensions
+- User entity and authentication  
+- Borrowing workflow  
+- Search and filtering  
+- Role-based access control  
