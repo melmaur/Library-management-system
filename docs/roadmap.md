@@ -2,7 +2,7 @@
 
 This roadmap outlines the planned development of the Library Management System.
 
-## Sprint 1 (Completed)
+## Sprint 1
 - Project setup  
 - Database configuration  
 - Book entity  
