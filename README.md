@@ -8,7 +8,7 @@ It demonstrates my ability to design and implement a complete backend applicatio
 ## Tech Stack
 - Java 17  
 - Spring Boot  
-- PostgreSQL  
+- mySQL  
 - Flyway  
 - JUnit  
 
