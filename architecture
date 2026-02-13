@@ -1,4 +1,7 @@
 
+This is a junior developer project created for learning purposes and for showcasing my work as I keep learning more.
+More features will be added incrementally following the roadmap.
+
 # Architecture Overview
 
 This project follows a layered architecture to keep the code organized, testable, and easy to extend.
