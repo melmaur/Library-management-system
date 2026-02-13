@@ -2,7 +2,7 @@
 A junior‑level backend project built with Java and Spring Boot.
 
 ## Purpose
-This project is part of my learning journey as I enter the software development field.  
+This project is part of my learning journey as I enter the software development field. Scrum principles will guide my agile development to show what I learned obtaining my recent Scrum PSM 1 Certificate ()   
 It demonstrates my ability to design and implement a complete backend application following clean architecture principles, using Java, Spring Boot, and PostgreSQL.
 
 ## Tech Stack
