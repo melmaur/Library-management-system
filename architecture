@@ -1,9 +1,4 @@
 
----
-
-# 📄 **docs/architecture.md**
-
-```markdown
 # Architecture Overview
 
 This project follows a layered architecture to keep the code organized, testable, and easy to extend.
