@@ -2,7 +2,7 @@
 A junior‑level backend project built with Java and Spring Boot.
 
 ## Purpose
-This project is part of my learning journey as I enter the software development field. Scrum principles will guide my agile development to show what I learned obtaining my recent Scrum PSM 1 Certificate ()   
+This project is part of my learning journey as I enter the software development field. Scrum principles will guide my agile development to show what I learned obtaining my recent Scrum PSM 1 Certificate (https://www.scrum.org/certificates/1247390.)   
 It demonstrates my ability to design and implement a complete backend application following clean architecture principles, using Java, Spring Boot, and PostgreSQL.
 
 ## Tech Stack
@@ -20,7 +20,7 @@ It demonstrates my ability to design and implement a complete backend applicatio
 - Database migrations  
 
 ## Roadmap
-- Sprint 1: Book management (completed)  
+- Sprint 1: Book management  
 - Sprint 2: User management  
 - Sprint 3: Borrowing and returning books  
 - Sprint 4: Search and filtering  
