@@ -1,5 +1,5 @@
 # Library Management System
-A junior‑level backend project built with Java and Spring Boot. Software Development Environment choosen is IntelliJ IDEA.
+A junior‑level backend project built with Java and Spring Boot using IntelliJ IDEA.
 
 ## Purpose
 This project is part of my learning journey as I enter the software development field. It demonstrates my ability to design and implement a complete backend application following clean architecture principles, using Java, Spring Boot, and MySQL. Scrum principles will guide my agile development to show what I learned obtaining my recent Scrum PSM 1 Certificate (https://www.scrum.org/certificates/1247390). 
